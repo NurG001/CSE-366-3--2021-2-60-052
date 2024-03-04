@@ -10,8 +10,10 @@ The repository includes the following:
 
 2. **Project Files**: This section contains files related to the course project. The project details, including requirements and deliverables, will be provided separately.
 
+3. **Readme File**: This file which describes the content of the CSE-366-3--2021-2-60-052 repository.
+
 ## Usage
 
-Feel free to browse through the repository to access assignment materials and project files. You can clone the repository to your local machine using the following command:
+Feel free to browse through the repository to access assignment materials and project files.
 
 
