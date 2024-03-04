@@ -1,4 +1,4 @@
-# Dynamic Robot Movement Simulation
+# Enhanced Dynamic Robot Movement Simulation
 
 This repository contains code for simulating the movement of a robot in a dynamic environment using various search algorithms to find the optimal path from a starting point to a destination while avoiding obstacles.
 ## Overview
