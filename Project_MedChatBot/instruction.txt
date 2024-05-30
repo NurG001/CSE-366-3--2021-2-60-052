@@ -1,0 +1,5 @@
+1. pip install spacy pandas streamlit
+
+2. python -m spacy download en_core_web_sm
+
+3. streamlit run MedChatBot/MedChatBot.py
